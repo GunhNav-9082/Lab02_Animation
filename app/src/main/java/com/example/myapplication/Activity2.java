@@ -63,7 +63,7 @@ public class Activity2 extends AppCompatActivity {
                 // starting our activity with below method.
 
                 Bundle b = new Bundle();
-                b.putInt("imageId", R.drawable.lavender2);
+                b.putInt("imageId", R.drawable.hoa_dep_03);
                 b.putString("content", "Before the start of the fasting period of Lent (on Ash Wednesday), people had fun running Carnivals as it was their last chance until Easterto eat meat. The celebration was also a way to chase off the gloom of winter in the hope of spring.");
                 intent.putExtras(b);
                 startActivity(intent, options.toBundle());
@@ -84,7 +84,7 @@ public class Activity2 extends AppCompatActivity {
 
 
                 Bundle b = new Bundle();
-                b.putInt("imageId", R.drawable.lavender);
+                b.putInt("imageId", R.drawable.lavender2);
                 b.putString("content", "The word “carnival” derives from the Latin “carnelevare” meaning “to take out the meat”. The medieval Church banished meat from the table during the whole period of Lent, as it did with sugar, ingredients containing fat, eggs and dairy products. ");
                 intent.putExtras(b);
                 startActivity(intent, options.toBundle());
@@ -107,7 +107,7 @@ public class Activity2 extends AppCompatActivity {
                 // starting our activity with below method.
 
                 Bundle b = new Bundle();
-                b.putInt("imageId", R.drawable.lavender2);
+                b.putInt("imageId", R.drawable.remove_bg);
                 b.putString("content", "Before the start of the fasting period of Lent (on Ash Wednesday), people had fun running Carnivals as it was their last chance until Easterto eat meat. The celebration was also a way to chase off the gloom of winter in the hope of spring.");
                 intent.putExtras(b);
                 startActivity(intent, options.toBundle());

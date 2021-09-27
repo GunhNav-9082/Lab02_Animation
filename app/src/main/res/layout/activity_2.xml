@@ -27,7 +27,7 @@
         android:transitionName="fade"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/hoa_dep_03" />
+        app:srcCompat="@drawable/lavender2" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -38,7 +38,7 @@
         android:transitionName="fade"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/lavender2" />
+        app:srcCompat="@drawable/hoa_dep_03" />
 
     <ImageView
         android:id="@+id/imageView8"
